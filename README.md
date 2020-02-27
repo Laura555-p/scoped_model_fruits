@@ -9,4 +9,4 @@ This is **a widget tree** of the **Scoped Model Fruits** app:
 # A Flutter app structure:
 # lib/main
 
-Here **ScopedModel model: SuperModel.instance** is used in order 
+Here the **ScopedModel model: SuperModel.instance** is used in order to provide more than one class (in this case, **ListModel** and **CartModel**) at once to widgets futher down the tree.
