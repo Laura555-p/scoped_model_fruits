@@ -4,4 +4,4 @@ A flutter app sample, **Scoped Model Fruits**, shows a state management approach
 
 This is **a widget tree** of the **Scoped Model Fruits** app:
 
-![] (https://github.com/Laura555-p/scoped_model_fruits/blob/master/assets/images/widget_tree1.png)
+![](https://github.com/Laura555-p/scoped_model_fruits/blob/master/assets/images/widget_tree1.png)
