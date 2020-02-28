@@ -46,6 +46,10 @@ In order, to make understand a code editor that mixins not an error anymore, the
   ***errors:***
   
    ***mixin_inherits_from_not_object: ignore***
+   
+ ![](https://github.com/Laura555-p/scoped_model_fruits/blob/master/assets/images/screenshot1.PNG)
+ ![](https://github.com/Laura555-p/scoped_model_fruits/blob/master/assets/images/screenshot2.PNG)
+ ![](https://github.com/Laura555-p/scoped_model_fruits/blob/master/assets/images/screenshot3.PNG)
 
 
 
