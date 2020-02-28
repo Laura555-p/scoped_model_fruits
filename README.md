@@ -27,7 +27,7 @@ A widget **MyFruitItem**, has access to the current state of the list of fruits 
 The widgets **AddButton** and **CartList**, have access to the current state of the cart (**CartModel**) via **ScopedModelDescendant SuperModel** and **rebuildOnChange: true**, property is used to accept the changes once they occur.
 
 # pubspec.yaml
-In order, to enable error free mixins, the code needs to be added to the **pubspec.yaml** file:
+In order, to enable mixins, the code needs to be added to the **pubspec.yaml** file:
 
 ***analyzer:***
 
