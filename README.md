@@ -16,5 +16,5 @@ The **SuperModel** is a mixin that able to access all the public properties of *
 # lib/model/*
 This directory contains the model classes: **ListModel**, **CartModel** and **SuperModel**, and an object **Fruit**. Two classes (In this case, **ListModel** and **CartModel**) are provided in the ***main.dart*** via **SuperModel** mixin. These classes represents the app state.
 
-#lib/screens/*
+# lib/screens/*
 This directory contains widgets (**MyList** and **MyCart**) used to construct the two screens of the app with other widgets: a list of fruits and a cart.
