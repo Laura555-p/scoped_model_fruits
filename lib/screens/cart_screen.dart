@@ -12,10 +12,10 @@ class MyCart extends StatelessWidget {
           'Cart',
           style: Theme.of(context).textTheme.display4,
         ),
-        backgroundColor: Colors.red[300],
+        backgroundColor: Colors.green[400],
       ),
       body: Container(
-        color: Colors.red[300],
+        color: Colors.green[400],
         child: Column(
           children: [
             Expanded(

@@ -30,7 +30,7 @@ class CartTotal extends StatelessWidget {
               color: Colors.white,
               child: Text(
                 'Buy',
-                style: TextStyle(color: Colors.red[500]),
+                style: TextStyle(color: Colors.green[500]),
               ),
             ),
           ],

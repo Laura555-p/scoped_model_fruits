@@ -2,6 +2,8 @@ import 'list_model.dart';
 
 import 'fruits_object.dart';
 
+// In this way the CartModel extends a ListModel,
+// now CartModel has access to all the methods of the ListModel
 class CartModel extends ListModel {
   final List<int> _fruitIds = [];
 

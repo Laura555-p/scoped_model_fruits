@@ -6,7 +6,7 @@ class MyAppBar extends StatelessWidget {
     var textTheme1 = Theme.of(context).textTheme.display4;
 
     return SliverAppBar(
-      backgroundColor: Colors.red[300],
+      backgroundColor: Colors.green[400],
       title: Text(
         'The List of Fruits',
         style: textTheme1,

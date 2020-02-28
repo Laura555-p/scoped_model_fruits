@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 final myAppTheme = ThemeData(
-  primarySwatch: Colors.red,
+  primarySwatch: Colors.green,
   textTheme: TextTheme(
     display4: TextStyle(
       fontFamily: 'Arimo',

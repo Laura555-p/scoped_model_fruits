@@ -28,7 +28,7 @@ class AddButton extends StatelessWidget {
                   )
                 : Container(
                     padding: EdgeInsets.all(5),
-                    color: Colors.red[300],
+                    color: Colors.green[400],
                     child: Text(
                       'add fruit',
                       style: textTheme,
