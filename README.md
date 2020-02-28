@@ -35,7 +35,7 @@ In order, to enable error free mixins, the code needs to be added to the **pubsp
   
  ***language:***
   
-    ***enableSuperMixins: true***
+   ***enableSuperMixins: true***
     
 
 # analysis_options.yaml
