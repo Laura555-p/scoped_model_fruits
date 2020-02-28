@@ -39,6 +39,7 @@ In order, to enable mixins, the code needs to be added to the **pubspec.yaml** f
     
 
 # analysis_options.yaml
+In order, to make understand code editor that mixins not an error anymore, the **analysis_options.yaml** file was created in the same directory as  **pubspec.yaml**, with code:
 
 ***analyzer:***
 
