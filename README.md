@@ -26,6 +26,9 @@ A widget **MyFruitItem**, has access to the current state of the list of fruits 
 
 The widgets **AddButton** and **CartList**, have access to the current state of the cart (**CartModel**) via **ScopedModelDescendant SuperModel** and **rebuildOnChange: true**, property is used to accept the changes once they occur.
 
+# list/style/*
+This directory contains of the app Text Style: fontFamily, fontWeight, fontSize and text color.
+
 # pubspec.yaml
 In order, to enable mixins, the code was added to the **pubspec.yaml** file:
 
