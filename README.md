@@ -29,10 +29,14 @@ The widgets **AddButton** and **CartList**, have access to the current state of 
 # pubspec.yaml
 In order, to enable error free mixins, the code needs to be added to the **pubspec.yaml** file:
 
-***analyzer:
-  strong-mode: true
-  language:
-    enableSuperMixins: true**
+***analyzer:***
+
+ ***strong-mode: true***
+  
+ ***language:***
+  
+    ***enableSuperMixins: true***
+    
 
 # analysis_options.yaml
 
