@@ -42,7 +42,7 @@ In order, to enable mixins, the code needs to be added to the **pubspec.yaml** f
 
 ***analyzer:***
 
-  ***errors: ***
+  ***errors:***
   
    ***mixin_inherits_from_not_object: ignore***
 
