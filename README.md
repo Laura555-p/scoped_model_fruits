@@ -24,5 +24,5 @@ This directory contains widgets (**MyAppBar**, **MyFruitItem**, **AddButton**, *
 
 A widget **MyFruitItem**, has access to the current state of the list of fruits (**ListModel**) via **SuperModel** mixin.
 
-The widgets **AddButton** and **CartList**, have access to the current state of the cart (**CartModel**) via **ScopedModelDescendant SuperModel**.
+The widgets **AddButton** and **CartList**, have access to the current state of the cart (**CartModel**) via **ScopedModelDescendant SuperModel** and **rebuildOnChange: true**, property is used to accept the changes once they occur.
 
