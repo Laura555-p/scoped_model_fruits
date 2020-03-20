@@ -1,6 +1,6 @@
 import 'package:scoped_model/scoped_model.dart';
 
-import 'fruits_object.dart';
+import 'fruits_skeleton.dart';
 
 abstract class ListModel extends Model {
   static const _fruitNames = [

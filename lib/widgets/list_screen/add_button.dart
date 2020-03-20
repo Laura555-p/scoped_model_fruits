@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:scoped_model/scoped_model.dart';
 
 import '../../models/super_model.dart';
-import '../../models/fruits_object.dart';
+import '../../models/fruits_skeleton.dart';
 
 class AddButton extends StatelessWidget {
   final Fruit fruit;

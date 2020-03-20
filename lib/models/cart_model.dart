@@ -1,6 +1,6 @@
 import 'list_model.dart';
 
-import 'fruits_object.dart';
+import 'fruits_skeleton.dart';
 
 // In this way the CartModel extends a ListModel,
 // now CartModel has access to all the methods of the ListModel
