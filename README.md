@@ -9,7 +9,7 @@ This is **a widget tree** of the **Scoped Model Fruits** app:
 # A Flutter app structure:
 # lib/main.dart
 
-Here the **ScopedModel model: SuperModel.instance** is used in order to provide more than one class (in this case, **ListModel** and **CartModel**) at once to widgets futher down the tree.
+In order to track states of the object, they need to be provided to widget further down the tree. Here the **ScopedModel model: SuperModel.instance** is used in order to provide more than one class (in this case, **ListModel** and **CartModel**) at once to widgets futher down the tree.
 
 The **SuperModel** is a mixin that able to access all the public properties of **ListModel** and **CartModel**. 
 
